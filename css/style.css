@@ -1373,7 +1373,7 @@ font-size: 20px;
   background: linear-gradient(rgba(0, 0, 0, 0.411), rgb(12, 5, 5)), url("../used-images/parallax-images/parallax2.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  max-height: 44vh;
+  min-height: 44vh;
   width: 100%;
   display: flex;
   justify-content: center;
