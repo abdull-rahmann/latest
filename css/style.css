@@ -1373,7 +1373,7 @@ font-size: 20px;
   background: linear-gradient(rgba(0, 0, 0, 0.411), rgb(12, 5, 5)), url("../used-images/parallax-images/parallax2.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  height: 44vh;
+  max-height: 44vh;
   width: 100%;
   display: flex;
   justify-content: center;
@@ -1921,7 +1921,7 @@ hr {
  /* background-color: #000000d7; */
   background-repeat: no-repeat;
   background-size: cover;
-  height: 50vh;
+  max-height: 50vh;
   width: 100%;
  
   text-align: center;
